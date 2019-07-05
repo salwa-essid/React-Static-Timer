@@ -1,0 +1,12 @@
+.time{
+    display:flex;
+    justify-content: center;
+   
+}
+strong{
+    font-size:135px;
+}
+p{
+    font-size: 25px;
+    color:rgb(146, 145, 145)
+}
